@@ -1,1 +1,3 @@
 header-y += pn544.h
+header-y += bcm2079x.h
+header-y += sec_nfc.h
